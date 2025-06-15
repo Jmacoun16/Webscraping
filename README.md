@@ -46,5 +46,5 @@ Pocet Volicu: Počet voličů
 Pocet Obalek: Počet obálek
 Pocet Validnich Obalek: Počet platných obálek
 Hlasovací výsledky pro jednotlivé politické strany
-Příspěvky
+## Příspěvky
 Pokud máte návrhy na vylepšení nebo naleznete chyby, neváhejte přispět k projektu nebo otevřít issue.
